@@ -156,3 +156,77 @@ Fibres ↑→
 4. ⲉⲓⲙⲉ [ⲉⲡ]ⲉⲥⲕⲟⲡⲟⲥ ⲛ̄ⲛ̄ⲣ̄ⲙ̄ϫ̣ⲏ̣ⲙⲉ ⲉϣⲱⲡⲉ ϥ[.?]
 5. ⲛ̄ⲧⲁⲛⲕⲟⲧ̄ⲕ̄ ⲛ̄ⲧⲁ ⲓ(¨)ϣⲱⲣ̄ⲡ̄ ⲉⲧⲡⲟⲗⲓⲥ ⲛ̄ⲧⲉⲩϣⲏ [.?]
 6. ⲟⲛ ϥⲟⲩⲱϣ*word-sep-apostrophe* ⲧⲣⲁⲉⲓ*word-sep-apostrophe* ⲁⲛ ⲥϩⲁ ⲓ(¨) ⲛⲁ ⲓ(¨) ϫⲉϣⲁ ⲓ(¨)ⲣ̄ ⲁⲡⲁ̣[
+-----------------------------------
+    
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+processing: 
+    	oMonEpiph164_200.txt
+time:
+    	2026-02-12T20:20:58
+warnings: 
+    
+-----------------------------------
+        
+
+
+
+----------
+Simple Substitutions
+----------
+
+
+P.Mon.Epiph. 164
+Fibres ↑ →
+*rho-cross* ⲁⲛⲟⲕ ⲡⲁⲩⲗⲟⲥ ⲡⲉ (ⲓ(¨)ⲉⲗⲁⲭ̄( )) (ⲙ̄ⲙⲟⲛⲁⲭⲟⲥ( )) ⲛ̄ⲑ[ⲉⲛⲉⲉⲧⲉ] [.?]
+ⲥϩⲁ ⲓ(¨) ⲉⲣⲁⲧϥ*word-sep-apostrophe* ⲙ̄ⲡⲑⲉⲟⲥⲉⲃⲉⲥⲧⲁⲧⲟⲥ ⲛ̄ϫⲟⲉⲓⲥ ⲛ̄ⲉⲓⲱ[ⲧ] [.?]
+ⲁⲩⲱ ⲡⲣⲱⲙⲉ*word-sep-apostrophe* ⲛⲁⲙⲉ*word-sep-apostrophe* ⲉⲧ[.....] ⲁⲩⲱ ⲉⲧϩⲁⲉ[ⲟⲟⲩ] [.?]
+ⲉⲃⲟⲗ ⲛ̄ⲛ̄ⲁⲣⲉⲧⲏ ⲧⲏⲣⲟⲩ ⲙ̄ⲡⲉⲭ̄ⲥ̄ ⲓ̣ⲁⲣⲟ̣[.?]
+5
+ϣⲓⲛⲉ*word-sep-apostrophe* ⲁⲩⲱ ϯⲡⲣⲟⲥⲕⲩⲛⲉⲓ*word-sep-apostrophe* ⲙ̄ⲡⲉ ⲓ(¨)ⲭⲛⲟⲥ ⲛ̄ⲡⲉⲕϩ[.?]
+ⲁⲁⲃ*
+
+----------
+Moving Hyphens
+----------
+
+
+P.Mon.Epiph. 164
+Fibres ↑ →
+*rho-cross* ⲁⲛⲟⲕ ⲡⲁⲩⲗⲟⲥ ⲡⲉ (ⲓ(¨)ⲉⲗⲁⲭ̄( )) (ⲙ̄ⲙⲟⲛⲁⲭⲟⲥ( )) ⲛ̄ⲑ[ⲉⲛⲉⲉⲧⲉ] [.?]
+ⲥϩⲁ ⲓ(¨) ⲉⲣⲁⲧϥ*word-sep-apostrophe* ⲙ̄ⲡⲑⲉⲟⲥⲉⲃⲉⲥⲧⲁⲧⲟⲥ ⲛ̄ϫⲟⲉⲓⲥ ⲛ̄ⲉⲓⲱ[ⲧ] [.?]
+ⲁⲩⲱ ⲡⲣⲱⲙⲉ*word-sep-apostrophe* ⲛⲁⲙⲉ*word-sep-apostrophe* ⲉⲧ[.....] ⲁⲩⲱ ⲉⲧϩⲁⲉ[ⲟⲟⲩ] [.?]
+ⲉⲃⲟⲗ ⲛ̄ⲛ̄ⲁⲣⲉⲧⲏ ⲧⲏⲣⲟⲩ ⲙ̄ⲡⲉⲭ̄ⲥ̄ ⲓ̣ⲁⲣⲟ̣[.?]
+5
+ϣⲓⲛⲉ*word-sep-apostrophe* ⲁⲩⲱ ϯⲡⲣⲟⲥⲕⲩⲛⲉⲓ*word-sep-apostrophe* ⲙ̄ⲡⲉ ⲓ(¨)ⲭⲛⲟⲥ ⲛ̄ⲡⲉⲕϩ[.?]
+ⲁⲁⲃ*
+
+----------
+Counting Dots
+----------
+
+
+P.Mon.Epiph. 164
+Fibres ↑ →
+*rho-cross* ⲁⲛⲟⲕ ⲡⲁⲩⲗⲟⲥ ⲡⲉ (ⲓ(¨)ⲉⲗⲁⲭ̄( )) (ⲙ̄ⲙⲟⲛⲁⲭⲟⲥ( )) ⲛ̄ⲑ[ⲉⲛⲉⲉⲧⲉ] [.?]
+ⲥϩⲁ ⲓ(¨) ⲉⲣⲁⲧϥ*word-sep-apostrophe* ⲙ̄ⲡⲑⲉⲟⲥⲉⲃⲉⲥⲧⲁⲧⲟⲥ ⲛ̄ϫⲟⲉⲓⲥ ⲛ̄ⲉⲓⲱ[ⲧ] [.?]
+ⲁⲩⲱ ⲡⲣⲱⲙⲉ*word-sep-apostrophe* ⲛⲁⲙⲉ*word-sep-apostrophe* ⲉⲧ[.5] ⲁⲩⲱ ⲉⲧϩⲁⲉ[ⲟⲟⲩ] [.?]
+ⲉⲃⲟⲗ ⲛ̄ⲛ̄ⲁⲣⲉⲧⲏ ⲧⲏⲣⲟⲩ ⲙ̄ⲡⲉⲭ̄ⲥ̄ ⲓ̣ⲁⲣⲟ̣[.?]
+5
+ϣⲓⲛⲉ*word-sep-apostrophe* ⲁⲩⲱ ϯⲡⲣⲟⲥⲕⲩⲛⲉⲓ*word-sep-apostrophe* ⲙ̄ⲡⲉ ⲓ(¨)ⲭⲛⲟⲥ ⲛ̄ⲡⲉⲕϩ[.?]
+ⲁⲁⲃ*mid
+
+----------
+Annotating Lines
+----------
+
+
+P.Mon.Epiph. 164
+Fibres ↑ →
+1. *rho-cross* ⲁⲛⲟⲕ ⲡⲁⲩⲗⲟⲥ ⲡⲉ (ⲓ(¨)ⲉⲗⲁⲭ̄( )) (ⲙ̄ⲙⲟⲛⲁⲭⲟⲥ( )) ⲛ̄ⲑ[ⲉⲛⲉⲉⲧⲉ] [.?]
+2. ⲥϩⲁ ⲓ(¨) ⲉⲣⲁⲧϥ*word-sep-apostrophe* ⲙ̄ⲡⲑⲉⲟⲥⲉⲃⲉⲥⲧⲁⲧⲟⲥ ⲛ̄ϫⲟⲉⲓⲥ ⲛ̄ⲉⲓⲱ[ⲧ] [.?]
+3. ⲁⲩⲱ ⲡⲣⲱⲙⲉ*word-sep-apostrophe* ⲛⲁⲙⲉ*word-sep-apostrophe* ⲉⲧ[.5] ⲁⲩⲱ ⲉⲧϩⲁⲉ[ⲟⲟⲩ] [.?]
+4. ⲉⲃⲟⲗ ⲛ̄ⲛ̄ⲁⲣⲉⲧⲏ ⲧⲏⲣⲟⲩ ⲙ̄ⲡⲉⲭ̄ⲥ̄ ⲓ̣ⲁⲣⲟ̣[.?]
+5. ϣⲓⲛⲉ*word-sep-apostrophe* ⲁⲩⲱ ϯⲡⲣⲟⲥⲕⲩⲛⲉⲓ*word-sep-apostrophe* ⲙ̄ⲡⲉ ⲓ(¨)ⲭⲛⲟⲥ ⲛ̄ⲡⲉⲕ
